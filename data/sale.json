@@ -1,0 +1,52 @@
+{"items": [
+    {
+        "itemID": "",
+        "itemPrice": "",
+        "itemDescription": ""
+    },
+    {
+        "itemID": "1",
+        "itemPrice": "10",
+        "itemDescription": "mug"
+    },
+    {
+        "itemID": "2",
+        "itemPrice": "20",
+        "itemDescription": "mug"
+    },
+    {
+        "itemID": "3",
+        "itemPrice": "30",
+        "itemDescription": "bowl"
+    },
+    {
+        "itemID": "4",
+        "itemPrice": "40",
+        "itemDescription": "teapot"
+    },
+    {
+        "itemID": "5",
+        "itemPrice": "25",
+        "itemDescription": "bowl"
+    },
+    {
+        "itemID": "7",
+        "itemPrice": "22",
+        "itemDescription": "jug"
+    },
+    {
+        "itemID": "6",
+        "itemPrice": "15",
+        "itemDescription": "teacup"
+    },
+    {
+        "itemID": "8",
+        "itemPrice": "80",
+        "itemDescription": "large vase"
+    },
+    {
+        "itemID": "9",
+        "itemPrice": "50",
+        "itemDescription": "plate"
+    }
+]}

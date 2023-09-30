@@ -1,0 +1,12 @@
+{"items": [
+    {
+        "itemID": "0",
+        "itemPrice": "10",
+        "itemDescription": "mug"
+    },
+    {
+        "itemID": "1",
+        "itemPrice": "40",
+        "itemDescription": "plate"
+    }
+]}
